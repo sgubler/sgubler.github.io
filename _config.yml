@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
+title: Soda Life!
+subtitle: All soda, all the time...
+description: A living blog about soda. From making flavors, to setting up equipment, to keeping it all clean. Please enjoy!
 keywords:
-author: John Doe
+author: Sam Gubler
 language:
 timezone:
 
@@ -74,6 +74,7 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: landscape
+sidebar: left
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
